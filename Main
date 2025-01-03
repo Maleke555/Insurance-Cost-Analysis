@@ -1,0 +1,3 @@
+print('This is a practice project')
+import piplite
+await piplite.install('seaborn')
